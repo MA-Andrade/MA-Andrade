@@ -14,5 +14,5 @@ My name is Marco, I'm an eager backend developer and data scientist. Eagerly wor
 ## ✨ Get in touch! ✨
 
 <a href="https://www.linkedin.com/in/maandrade91/">
-  <img align="left" alt="Marco's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Marco's LinkedIN" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
 </a>
