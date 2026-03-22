@@ -4,7 +4,8 @@ My name is Marco, I'm an eager backend developer and data scientist. Eagerly wor
 
 ## What I'm currently coding with:
 <p>
-  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" onclick="return false;" /> </a>
+  <a href="#"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC0000?style=for-the-badge&logo=ruby&logoColor=white"/> </a>
+  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/> </a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FBD030?style=for-the-badge&logo=python&logoColor=blue"/> </a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/Php-7c70b4?style=for-the-badge&logo=Php&logoColor=black"/> </a>
   <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-ffd100?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
